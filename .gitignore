@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+face-service/data/
+backend/data/
+coverage/
+*.log
+.DS_Store
+.extract/
